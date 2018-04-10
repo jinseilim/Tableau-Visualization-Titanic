@@ -1,6 +1,14 @@
 # Tableau-Visualization-Titanic
 Project 4: Visualizing Titanic Data in Tableau (Udacity Data Analyst Nanodegree)
 
+## Files
+
+1. **Udacity Titanic Final.twbx** -- the final Tableau Public workbook containing all cleaned and wrangled data, including dashboards and story panes. 
+
+2. **Writeup.pdf** -- contains a writeup describing my analysis and cleaning efforts
+
+3. **titanic-data.csv** -- data concerning Titantic passengers, obtained from www.kaggle.com/c/titanic/data
+
 ## Links
 First version: https://public.tableau.com/profile/jin.lim6189#!/vizhome/UdacityTitanicDraft/Story1
 Final version: https://public.tableau.com/profile/jin.lim6189#!/vizhome/UdacityTitanicFinal/Story1
