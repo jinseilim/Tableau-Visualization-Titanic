@@ -11,6 +11,7 @@ Project 4: Visualizing Titanic Data in Tableau (Udacity Data Analyst Nanodegree)
 
 ## Links
 First version: https://public.tableau.com/profile/jin.lim6189#!/vizhome/UdacityTitanicDraft/Story1
+
 Final version: https://public.tableau.com/profile/jin.lim6189#!/vizhome/UdacityTitanicFinal/Story1
 
 ## Summary
